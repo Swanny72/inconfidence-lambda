@@ -1,4 +1,4 @@
-package ca.meddavie.inconfidence.domain;
+package ca.medavie.inconfidence.domain;
 
 public class Client {
 

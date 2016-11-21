@@ -2,7 +2,7 @@ package ca.medavie.inconfidence.handler;
 
 import ca.medavie.aws.lambda.AbstractResourceMethodStrategy;
 import ca.medavie.aws.lambda.MedavieAWSException;
-import ca.meddavie.inconfidence.domain.Client;
+import ca.medavie.inconfidence.domain.Client;
 
 
 public class GetClientStrategy extends AbstractResourceMethodStrategy<Void, Client, GetClientParameters> {
